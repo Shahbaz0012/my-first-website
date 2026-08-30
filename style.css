@@ -1,7 +1,8 @@
 body {
-    background-color: #111827;
+    background-color:#1f2937;
     color: white;
     font-family: Arial, sans-serif;
+    
 
     margin: 0;
     padding: 0;
@@ -9,13 +10,16 @@ body {
 
 header {
     text-align: center;
-    padding: 80px 20px;
+    padding: 80px 10px;
+    border-radius: 15px;
+
 }
 
 main {
     max-width: 900px;
     margin: auto;
     padding: 20px;
+    border: 2px solid white;
 }
 
 section {
@@ -23,4 +27,5 @@ section {
     padding: 25px;
     margin-bottom: 20px;
     border-radius: 12px;
+     border: 2px solid white;
 }
